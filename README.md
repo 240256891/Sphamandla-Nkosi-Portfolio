@@ -1,6 +1,7 @@
 Digital Portfolio – Siphamandla Nkosi
 
-bout Me
+About Me
+
 Motivated Application Development student at CPUT with strong skills in Java, SQL, and web development. Passionate about building efficient, user-focused applications.
 
 ---
