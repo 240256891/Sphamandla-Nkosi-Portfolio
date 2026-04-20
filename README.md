@@ -48,6 +48,23 @@ Skills
 - Calculator  
 
 ---
+References
+
+Dorothy Newlands  
+- Position: School Principal  
+- Organization: Domino Servite School  
+- Phone: 032 481 5509  
+- Email: mail@dss.org.za  
+
+Mr G Songelwa  
+- Position: Manager  
+- Organization: aQuelle Factory  
+- Phone: 032 492 0500  
+- Email: mail@aquelle.co.za 
+
+---
+
+
 
 Mock Interview
 Paste your video link here
