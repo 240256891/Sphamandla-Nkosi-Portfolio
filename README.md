@@ -67,10 +67,9 @@ Mr G Songelwa
 
 
 Mock Interview
-<iframe width="560" height="315"
 src="https://youtube.com/shorts/W8aQ7YiMjC4
-frameborder="0" allowfullscreen>
-</iframe>
+
+
 
 
 
