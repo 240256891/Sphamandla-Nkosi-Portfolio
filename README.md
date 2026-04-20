@@ -3,7 +3,7 @@ Digital Portfolio – Siphamandla Nkosi
 bout Me
 Motivated Application Development student at CPUT with strong skills in Java, SQL, and web development. Passionate about building efficient, user-focused applications.
 
-
+---
 
  CV
 
@@ -19,7 +19,7 @@ Education
 - Richfield College – Higher Certificate IT (2023)  
 - Domino Servite School – Senior Certificate  
 
-
+---
 
 Work Experience
 Department of Education**
@@ -40,13 +40,13 @@ Skills
 
 ---
 
-### 📂 Projects
+ Projects
 - Website Development  
 - Student System  
 - Java Enrolment App  
 - Calculator  
 
-
+---
 
 Mock Interview
 Paste your video link here
@@ -62,15 +62,15 @@ Result: Professional GitHub portfolio created
 
 
 Reflection (Interview – STAR)
-**Situation:** Mock interview practice  
-**Task:** Answer professionally  
-**Action:** Practiced communication  
-**Result:** Improved confidence  
+Situation: Mock interview practice  
+Task: Answer professionally  
+ction: Practiced communication  
+Result:** Improved confidence  
 
 
 
 Reflection (GitHub Pages – STAR)
 ituation:** Needed online portfolio  
-Task:** Deploy project  
-Action:** Used GitHub Pages  
-Result:** Portfolio published online  
+Task: Deploy project  
+Action: Used GitHub Pages  
+Result: Portfolio published online  
