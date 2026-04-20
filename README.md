@@ -65,13 +65,13 @@ Result: Professional GitHub portfolio created
 Reflection (Interview – STAR)
 Situation: Mock interview practice  
 Task: Answer professionally  
-ction: Practiced communication  
+Action: Practiced communication  
 Result:** Improved confidence  
 
 
 
 Reflection (GitHub Pages – STAR)
-ituation:** Needed online portfolio  
+Situation:** Needed online portfolio  
 Task: Deploy project  
 Action: Used GitHub Pages  
 Result: Portfolio published online  
