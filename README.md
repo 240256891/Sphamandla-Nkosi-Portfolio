@@ -1,4 +1,4 @@
-Digital Portfolio – Siphamandla Nkosi
+![GitHub Student Account](student-account.png)
 
 About Me
 
